@@ -1,4 +1,4 @@
-# 🌞 3D Solar System Simulation in Python 🌍
+# 🌞 2D Solar System Simulation in Python 🌍
 
 A realistic **Solar System simulation** built using **Python and Pygame**, where all eight planets revolve around the Sun following **Newton’s Law of Universal Gravitation**.  
 Each planet displays its **name, orbit path**, and **distance from the Sun** in astronomical units (AU).
